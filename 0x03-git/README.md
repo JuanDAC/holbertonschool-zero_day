@@ -1,14 +1,7 @@
 # Git
 
-*** bash: directory ***
+**bash: directory**
 
+**c: directory**
 
-*** c: directory ***
-
-
-*** js: directory ***
-
-::::::::::::::
-README.md
-::::::::::::::
-# Git
+**js: directory**
